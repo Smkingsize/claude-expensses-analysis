@@ -2,6 +2,7 @@
 .env
 .env.local
 .env.*.local
+claude-expensses-analysis.code-workspace
 
 # Python
 __pycache__/
@@ -51,4 +52,4 @@ data/
 .pytest_cache/
 .coverage
 htmlcov/
-claude-expensses-analysis.code-workspace
+
